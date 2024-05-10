@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "proxy": "https://mern-chat-app.com",
+  "proxy": "https://mern-chat-app.render.com",
   "private": true,
   "dependencies": {
     "@chakra-ui/icons": "^1.0.13",
